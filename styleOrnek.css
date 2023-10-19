@@ -1,0 +1,22 @@
+table,
+tr,
+th,
+td {
+     text-align: center;
+     border: 1px solid black;
+     border-collapse: collapse;
+     padding: 5px 6px;
+}
+
+caption {
+    font-size: 24px;
+    font-weight: 600;
+}
+th {
+     background-color: gainsboro;
+     font-weight: 600;
+}
+
+.categories {
+     height: 40px;
+}
